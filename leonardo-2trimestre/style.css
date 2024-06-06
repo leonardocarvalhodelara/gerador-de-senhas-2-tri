@@ -20,5 +20,7 @@ font-size: 32px;
  }
  .titulo-secundario{
     font-size: 24px;
+    .titulo-secundario{
+        font-size: 24px;
 
  }
